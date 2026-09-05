@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2026-09-05T09:01:11.838600",
+    "action": "VERSION_CHANGE",
+    "prompt_name": "welcome_email",
+    "old_version": "v1",
+    "new_version": "v2"
+  },
+  {
+    "timestamp": "2026-09-05T09:01:11.839435",
+    "action": "VERSION_CHANGE",
+    "prompt_name": "welcome_email",
+    "old_version": "v2",
+    "new_version": "v1"
+  },
+  {
+    "timestamp": "2026-09-05T09:12:14.616346",
+    "action": "VERSION_CHANGE",
+    "prompt_name": "welcome_email",
+    "old_version": "v1",
+    "new_version": "v2"
+  },
+  {
+    "timestamp": "2026-09-05T09:12:14.617194",
+    "action": "VERSION_CHANGE",
+    "prompt_name": "welcome_email",
+    "old_version": "v2",
+    "new_version": "v1"
+  }
+]
