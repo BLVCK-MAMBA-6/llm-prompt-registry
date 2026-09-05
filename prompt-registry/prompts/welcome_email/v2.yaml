@@ -1,0 +1,7 @@
+# prompts/welcome_email/v2.yaml
+template: |
+  Hi {user_name}! 👋 Welcome to {company_name}. 
+  Let's get you started with your first project.
+metadata:
+  author: "bob"
+  created_at: "2023-10-15"

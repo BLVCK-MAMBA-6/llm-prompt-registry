@@ -1,0 +1,3 @@
+# prompts/summarize_article/v1.yaml
+template: |
+  Summarize the following text in one paragraph: {text}
