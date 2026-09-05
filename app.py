@@ -177,7 +177,7 @@ with st.container(border=True):
             m1.metric("Avg Quality Score", f"{avg_score:.1f} / 10")
             m2.metric("Total Latency", f"{metrics['total_latency']}s")
             m3.metric("Tokens Consumed", f"{metrics['total_input_tokens'] + metrics['total_output_tokens']:,}")
-            m4.metric("Estimated Cost", f"${metrics['estimated_cost']}")
+            m4.metric("Estimated Cost", f"${metrics['estimated_cost']:.6f}")
             
             st.markdown("##### Detailed Test Results")
             for i, res in enumerate(results):
